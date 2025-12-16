@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "biohaaznetwork_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/channdrahaasan5/BioHaazNetwork_iOS.git",
+      "state" : {
+        "revision" : "f9cab755d9853f6656e4a0c03686b05681a8ed0a",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}
